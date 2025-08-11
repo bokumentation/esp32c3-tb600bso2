@@ -5,5 +5,4 @@ managed_components/
 bakcup/
 
 # File
-.clangd
 dependencies.lock
